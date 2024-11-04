@@ -60,9 +60,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jimena-rodriguez-trejo-9b9757216/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/trejo_ji/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/Sarayrodriguez3498/"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jimena-rodriguez-trejo-9b9757216/"><img src="https://img.shields.io/badge/-JimenaRodriguez%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/trejo_ji/"><img src="https://img.shields.io/badge/-trejo_ji-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/Sarayrodriguez3498/"><img src="https://img.shields.io/badge/-JimenaTrejo-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 ### 🐍 &nbsp;That's How Commits move ...
